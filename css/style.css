@@ -2424,7 +2424,7 @@ color: #6c757d;
     width: 32% !important;
     max-width: none !important;
     height: auto !important;
-    min-height: 180px !important;
+    min-height: 200px !important;
     float: none !important;
     margin: 0 !important;
     padding: 6px 4px !important;
@@ -2445,7 +2445,7 @@ color: #6c757d;
 
   .imgimg {
     width: 100% !important;
-    height: 125px !important;
+    height: 155px !important;
     margin-left: 0 !important;
     object-fit: cover !important;
   }
